@@ -1,15 +1,3 @@
-"""
-Movie Success Prediction (TMDB/IMDb style)
-
-Notebook-ready script that:
-1) Loads movie data from CSV
-2) Cleans and preprocesses features
-3) Trains Logistic Regression and Random Forest classifiers
-4) Evaluates with accuracy, precision, recall, confusion matrix
-5) Plots confusion matrix and Random Forest feature importance
-6) Shows five incorrect predictions
-"""
-
 # %%
 import numpy as np
 import pandas as pd
